@@ -35,7 +35,7 @@ phases:
       # - command
   build:
     commands:
-      - mvn compile
+      - mvn compile 
       - mvn test
       - mvn install
       # - command
