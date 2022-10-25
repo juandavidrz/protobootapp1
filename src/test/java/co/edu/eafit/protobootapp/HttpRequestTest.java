@@ -1,4 +1,4 @@
-package co.eafit.protobootapp;
+package co.edu.eafit.protobootapp;
 
 import org.junit.jupiter.api.Test;
 
